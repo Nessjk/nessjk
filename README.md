@@ -9,13 +9,6 @@ In tech for while now I've been in Sales, Product and Engineering. (not all at t
 In love with coding apps with a little extra flair and creativity with a business impact.
 
 
-<style>
-  table, tr, td {
-    border: none !important;
-  }
-</style>
-
-
 ## My Skill Set  
 <table><tr style="border:none"><td valign="top" width="33%" style="border:none!important">
 
