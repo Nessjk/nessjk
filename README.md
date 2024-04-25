@@ -11,7 +11,7 @@ In love with coding apps with a little extra flair and creativity with a busines
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr style="border:none"><td valign="top" width="33%">
 
 
 
