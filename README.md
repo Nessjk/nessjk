@@ -11,7 +11,7 @@ In love with coding apps with a little extra flair and creativity with a busines
 
 
 ## My Skill Set  
-<table><tr style="border:none"><td valign="top" width="33%">
+<table><tr style="border:none"><td valign="top" width="33%" style="border:none">
 
 
 
@@ -29,7 +29,7 @@ In love with coding apps with a little extra flair and creativity with a busines
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" style="border:none">
 
 
 
@@ -41,7 +41,7 @@ In love with coding apps with a little extra flair and creativity with a busines
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" style="border:none">
 
 
 
