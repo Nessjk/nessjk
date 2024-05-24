@@ -4,7 +4,7 @@ I'm Tony, half-English and half- Italian, but produced in France. 🇫🇷
 
 I eat code for breakfast lunch and diner, luckily it’s 0 calories. 
 
-In tech for while now I've been in Sales, Product and Engineering. (not all at the same time) I co-founded my first tech startup at the non-ripe age of 25. Since, I matured into a full stack developer and worked on complex applications and websites.
+I've been in tech for while now, moving through Sales, Product and Engineering. (not all at the same time) I co-founded my first tech startup at the non-ripe age of 25. Since, I matured into a full stack developer and worked on complex applications and websites.
 
 In love with coding apps with a little extra flair and creativity with a business impact.
 
