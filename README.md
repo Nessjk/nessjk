@@ -6,8 +6,6 @@ I eat code for breakfast lunch and diner, luckily it’s 0 calories.
 
 I've been in tech for while now, moving through Sales, Product and Engineering. I co-founded my first tech startup at the non-ripe age of 25. Since, I matured into a full stack developer and worked on complex applications and websites.
 
-In love with coding apps with a little extra flair and creativity with a business impact.
-
 
 ## My Skill Set  
 <table><tr style="border:none"><td valign="top" width="33%" style="border:none!important">
