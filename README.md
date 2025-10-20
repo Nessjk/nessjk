@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Tony, half-English and half- Italian, but produced in France. 🇫🇷   
+I'm Tony, half-English and half-Italian, but produced in France. 🇫🇷   
 
-I eat code for breakfast lunch and diner, luckily it’s 0 calories. 
+I eat code for breakfast, lunch, and dinner, luckily it’s 0 calories. 
 
-I've been in tech for while now, moving through Sales, Product and Engineering. I co-founded my first tech startup at the non-ripe age of 25. Since, I matured into a full stack developer and worked on complex applications and websites.
+I've been in tech for a while now, moving through Sales, Product, and Engineering. I co-founded my first tech startup at the non-ripe age of 25. Since I matured into a full-stack developer and worked on complex applications and websites.
 
 
 ## My Skill Set  
